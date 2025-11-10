@@ -44,7 +44,7 @@ Raspberry Pi–based drone surveillance system for flood detection and rescue co
 
 **Email:** kiruthikau302@gmail.com  
 **LinkedIn:** www.linkedin.com/in/kiruthika-u-83720b25a
-**GitHub:** https://github.com/kiruthikau-302/Kiruthika-U---Embedded-
+**GitHub:** https://github.com/kiruthikau-302/Kiruthika-U---Embedded-.git
 
 ---
 
