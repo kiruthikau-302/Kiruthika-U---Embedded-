@@ -10,12 +10,10 @@
 1. **Languages:** Embedded C, Python, C++, LINUX
 2. **Platforms:** ESP32, STM32, Arduino, PIC, 8051, ESP8266, ARDUINO
 3. **Tools:** Proteus, Keil µVision, MPLAB X IDE, STMCube IDE
-4. **IoT:** Blynk, ThingSpeak
-5. 
-###    Featured Projects
+4. **IoT:** Blynk, ThingSpeak 
 
 
 
 
 
-📫 Reach me at **kiruthikau302@gmail.com**
+Reach me at **kiruthikau302@gmail.com**
